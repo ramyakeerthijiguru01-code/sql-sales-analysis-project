@@ -20,28 +20,25 @@ This project analyzes sales and returns data to understand business performance,
 ## SQL Concepts Used
 - SELECT, GROUP BY, ORDER BY
 - INNER JOIN, LEFT JOIN
-- Aggregate Functions: SUM, COUNT, AVG, MIN, MAX
+- Aggregate Functions (SUM, COUNT, AVG, MIN, MAX)
 - CASE WHEN
 - CTE
 - Window Functions
 
 ## Key Insights
-- Calculated total revenue and average order value
-- Identified top 5 customers by spending
-- Measured return rate and revenue lost due to returns
-- Calculated net revenue after returns
+- Identified top revenue-generating customers
+- Found percentage of revenue lost due to returns
+- Calculated return rate of orders
 - Analyzed monthly sales and return trends
+- Calculated net revenue after returns
 
-## Files in this Repository
+## Project Files
 - README.md → Project overview
-- project.sql → SQL queries used for analysis
+- project.sql → SQL queries
 
 ## Tools Used
 - SQL
-- Joins
-- Aggregations
-- CASE WHEN
-- CTE
+- MySQL Workbench
 
 ## Conclusion
-This project demonstrates how SQL can be used to analyze sales performance, customer behavior, and return impact using business-focused KPIs.
+This project demonstrates how SQL can be used to analyze sales data, calculate business KPIs, and derive actionable insights from transactional datasets.
