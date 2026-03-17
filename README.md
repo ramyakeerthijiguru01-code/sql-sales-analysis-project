@@ -1,3 +1,9 @@
+Author: Ramya Keerthi  
+GitHub: https://github.com/ramyakeerthijiguru01-code
+
+## Project Overview
+This project analyzes sales and returns data using SQL to generate business insights and key performance metrics.
+
 # Sales & Returns Analysis Using SQL
 
 ## Problem Statement
@@ -31,7 +37,8 @@ This project analyzes sales and returns data to understand business performance,
 - Calculated return rate of orders
 - Analyzed monthly sales and return trends
 - Calculated net revenue after returns
-
+- A percentage of total revenue is lost due to returns, impacting overall profitability
+  
 ## Project Files
 - README.md → Project overview
 - project.sql → SQL queries
