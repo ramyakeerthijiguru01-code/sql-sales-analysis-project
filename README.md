@@ -1,13 +1,13 @@
 Author: Ramya Keerthi  
 GitHub: https://github.com/ramyakeerthijiguru01-code
 
+# Sales & Returns Analysis Using SQL
+
 ## Project Overview
 This project analyzes sales and returns data using SQL to generate business insights and key performance metrics.
 
-# Sales & Returns Analysis Using SQL
-
 ## Problem Statement
-This project analyzes sales and returns data to understand business performance, customer behavior, and revenue loss due to returns.
+Analyze customer orders and returns data to understand revenue performance, customer behavior, and the impact of returns on business profitability.
 
 ## Dataset
 - Customers table
@@ -32,20 +32,20 @@ This project analyzes sales and returns data to understand business performance,
 - Window Functions
 
 ## Key Insights
-- Identified top revenue-generating customers
-- Found percentage of revenue lost due to returns
-- Calculated return rate of orders
-- Analyzed monthly sales and return trends
-- Calculated net revenue after returns
-- A percentage of total revenue is lost due to returns, impacting overall profitability
-  
+- A small number of customers contribute significantly to total revenue
+- Certain countries generate higher revenue than others
+- A percentage of revenue is lost due to returned orders
+- Return rate highlights operational inefficiencies
+- Net revenue is lower than total revenue due to returns
+- Monthly trends help identify business growth patterns
+
 ## Project Files
-- README.md → Project overview
-- project.sql → SQL queries
+- README.md → Project documentation
+- project.sql → SQL queries used for analysis
 
 ## Tools Used
 - SQL
 - MySQL Workbench
 
 ## Conclusion
-This project demonstrates how SQL can be used to analyze sales data, calculate business KPIs, and derive actionable insights from transactional datasets.
+This project demonstrates how SQL can be used to analyze sales data, calculate business KPIs, and derive actionable insights for decision-making.
